@@ -1,0 +1,12 @@
+/Users/oliviacubela/grocery-store/bin/Debug/netcoreapp2.1.22/GroceryList.deps.json
+/Users/oliviacubela/grocery-store/bin/Debug/netcoreapp2.1.22/GroceryList.runtimeconfig.json
+/Users/oliviacubela/grocery-store/bin/Debug/netcoreapp2.1.22/GroceryList.runtimeconfig.dev.json
+/Users/oliviacubela/grocery-store/bin/Debug/netcoreapp2.1.22/GroceryList.dll
+/Users/oliviacubela/grocery-store/bin/Debug/netcoreapp2.1.22/GroceryList.pdb
+/Users/oliviacubela/grocery-store/obj/Debug/netcoreapp2.1.22/GroceryList.csprojAssemblyReference.cache
+/Users/oliviacubela/grocery-store/obj/Debug/netcoreapp2.1.22/GroceryList.AssemblyInfoInputs.cache
+/Users/oliviacubela/grocery-store/obj/Debug/netcoreapp2.1.22/GroceryList.AssemblyInfo.cs
+/Users/oliviacubela/grocery-store/obj/Debug/netcoreapp2.1.22/GroceryList.csproj.CoreCompileInputs.cache
+/Users/oliviacubela/grocery-store/obj/Debug/netcoreapp2.1.22/GroceryList.dll
+/Users/oliviacubela/grocery-store/obj/Debug/netcoreapp2.1.22/GroceryList.pdb
+/Users/oliviacubela/grocery-store/obj/Debug/netcoreapp2.1.22/GroceryList.genruntimeconfig.cache
